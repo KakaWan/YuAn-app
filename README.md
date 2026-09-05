@@ -1,2 +1,2 @@
-# YuAn
-愿安安卓app安装包临时挂载点
+# 愿安 YuAn
+Contents of the relevant agreement
